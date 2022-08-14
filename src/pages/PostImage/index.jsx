@@ -27,7 +27,7 @@ const PostImage = () => {
             width="600px"
             height="600px"
             fit="cover"
-            duration={2000}
+            duration={3000}
             easing="cubic-bezier(0.7, 0, 0.6, 1)"
             showLoading
             errorIcon
